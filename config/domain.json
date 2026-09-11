@@ -1,6 +1,7 @@
 {
   "service_id": "meme-context",
-  "title": "网络热词语境标注 API",
+  "title": "网络生态举报分流服务",
   "health_path": "/health",
-  "port": 8080
+  "port": 8080,
+  "display_name": "网络生态举报分流服务"
 }
