@@ -1,0 +1,6 @@
+{
+  "service_id": "meme-context",
+  "title": "网络热词语境标注 API",
+  "health_path": "/health",
+  "port": 8080
+}
